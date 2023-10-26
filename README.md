@@ -1,0 +1,3 @@
+# DJANGO REST FRAMEWORK ECOMMERCE
+
+Django REST FRAMEWORK Project featuring an eCommerce RESTful API
